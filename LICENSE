@@ -672,3 +672,16 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+ADDITIONAL TERMS
+
+  1. Attribution Requirement: Any use, distribution, or modification of this software must include a proper attribution to the original authors. This includes a clear and visible statement in any distributed software, as well as in any marketing, documentation, or user interface where end-users are likely to see it.
+
+  2. Commercial Use Responsibility: Any company or entity that uses this software for commercial purposes must assume full responsibility for its use, distribution, and any modifications. This includes, but is not limited to:
+     - Providing end-users with a clear disclaimer of warranty and liability.
+     - Ensuring that all modifications and distributions comply with the terms of the GNU GPLv3.
+     - Assuming legal and financial responsibility for any issues arising from the use of the software.
+
+  3. No Additional Restrictions: When redistributing or modifying this software, you may not impose any additional restrictions beyond those of the GNU GPLv3.
+
+END OF ADDITIONAL TERMS
